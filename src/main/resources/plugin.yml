@@ -1,0 +1,9 @@
+author: zly
+main: com.github.zly2006.Windtrace
+version: 1.0.0
+name: Windtrace
+
+commands:
+  windtrace:
+    description: Genshin Windtrace
+    usage: /windtrace help
